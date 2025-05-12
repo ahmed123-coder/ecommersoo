@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "../styles/contact.css";
+import "../styles/Contact.css";
 import Navbar from "../conponment/navbare";
 
 const Contact = () => {
